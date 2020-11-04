@@ -102,7 +102,7 @@ by a response. The dialogues item is a list of elements, normally **q**, **r** p
         r: "LSG Serial #1234"
 
 If the response (**r**) is not provided, no response will be given by the device.
-Conversely, if **null_response** is provided for response (**r**), then no response
+Likewise, if **null_response** is provided for response (**r**), then no response
 will be given by the device as well.
 
 You can have as many items as you want.
